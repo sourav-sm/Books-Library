@@ -12,12 +12,14 @@
         <div>
             <input type="text" placeholder="Search Books..." id="search">
             <div>
-               sort button
-               chnage Lay1out
-            </div>
-            <div id="books">
-              
-            </div>
+               <select id="sort">
+                   <option value="">-- Sort By-- </option>
+                   <option value="title">Title (A - Z) </option>
+                   <option value="data">Published Date(Newest First)</option>
+               </select>
+               <button id="toggleView">Switch to Grid View</button>
+        </div>
+        <div id="books" class="grid-view"></div>
         </div>
      
     </div>
