@@ -7,6 +7,8 @@
 5.  Implement pagination on reaching the end of the page to call next set of details
 6.  Clicking on a book item, should open more details in a new tab (using infoLink)
 
+## [Live Link](https://books-library-liart.vercel.app/)
+
 ## Grid-View
 ![Screenshot 2025-03-28 190618](https://github.com/user-attachments/assets/cd3db791-909b-4560-98cf-73685ebdab26)
 
